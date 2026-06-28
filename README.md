@@ -3,6 +3,14 @@ End-to-end data analytics project using SQL, Power BI, Excel to analyze customer
 
 ## Project Overview
 
+| Item                 | Details                                                      |
+| -------------------- | ------------------------------------------------------------ |
+| **Dataset**          | Olist Brazilian E-Commerce Public Dataset                    |
+| **Records Analyzed** | 100,000+ Orders, 96,000+ Customers                           |
+| **Tools**            | SQL, Power BI, Excel                                         |
+| **Focus**            | Customer Retention, Sales Performance, Business Intelligence |
+
+
 This project analyzes an e-commerce marketplace dataset to understand customer behavior, sales performance, product trends, and operational efficiency.
 
 Using SQL, Excel, and Power BI, the project transforms raw transactional data into actionable business insights through data cleaning, KPI analysis, interactive dashboards, and business recommendations.
@@ -44,7 +52,17 @@ The data was cleaned, transformed, and analyzed to support business reporting an
 
 ## Tools & Technologies
 
-* **SQL** – Data extraction, cleaning, and business analysis
+* **SQL** – 
+* ## SQL Analysis
+The SQL analysis included:
+* Data cleaning and validation
+* Multi-table joins
+* Customer segmentation
+* Sales aggregation
+* KPI calculation
+* Customer retention analysis
+* Revenue analysis by product category
+
 * **Power BI** – Interactive dashboard development and data visualization
 * **Excel** – Data validation and exploratory analysis
 * **Git & GitHub** – Version control and project documentation
@@ -109,7 +127,7 @@ The dashboard includes:
 * Customer review analysis
 * Delivery performance metrics
 
-> **Dashboard screenshot will be added here after the final dashboard is completed.**
+> **Dashboard screenshots.**
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ac3577f3-31a4-4ee4-a377-05031e61bd31" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/27ed1b2c-c8c1-471a-9639-ad1bbe9f9947" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57424f04-75e1-4e61-a5f7-ee5330b1069e" />
